@@ -1,0 +1,10 @@
+{
+	"linter": {
+		"enabled": true
+	},
+	"formatter": {
+		"enabled": false,
+		"formatWithErrors": true,
+		"lineWidth": 150
+	}
+}
