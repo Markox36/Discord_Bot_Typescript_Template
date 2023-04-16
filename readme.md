@@ -18,11 +18,11 @@ npx create_discord_bot_typescript .
 
 ```js
 // FOR PRODUCTION
-npm start 	//run builded javascript bot
+npm start 		//run builded javascript bot
 // FOR PRODUCTION
-npm run tsc  //compile typescript to javascript
+npm run tsc  		//compile typescript to javascript
 // FOR DEVELOPMENT
-npm run dev  // run project transpiled to javascript
+npm run dev  		// run project transpiled to javascript
 ```
 
 ## Usage
@@ -47,9 +47,9 @@ src/config/config.ts:
 // Modify this parameter as you want
 export default {
 	devs: ["403917639673577482"],   // DEVELOPERS ID
-	prefix: "$",  // MAIN PREFIX
+	prefix: "$",  			// MAIN PREFIX
 	colors: {
-		main: "#e3d041", // MAIN COLOR
+		main: "#e3d041", 	// MAIN COLOR
 	},
 };
 ```
